@@ -1,0 +1,12 @@
+Kab/Kota Provinsi Banten (36)
+=========================
+Kode	Nama Kab/Kota
+=========================
+01 	PANDEGLANG	
+02 	LEBAK	
+03 	TANGERANG	
+04 	SERANG	
+71 	TANGERANG	
+72 	CILEGON	
+73 	SERANG	
+74 	TANGERANG SELATAN

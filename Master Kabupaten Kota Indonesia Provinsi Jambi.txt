@@ -1,0 +1,15 @@
+Kab/Kota Provinsi Jambi (15)
+=========================
+Kode	Nama Kab/Kota
+=========================
+01 	Kab.KERINCI	
+02 	Kab.MERANGIN	
+03 	Kab.SAROLANGUN	
+04 	Kab.BATANG HARI	
+05 	Kab.MUARO JAMBI	
+06 	Kab.TANJUNG JABUNG TIMUR	
+07 	Kab.TANJUNG JABUNG BARAT	
+08 	Kab.TEBO	
+09 	Kab.BUNGO	
+71 	Kota JAMBI	
+72 	Kota SUNGAI PENUH

@@ -1,0 +1,11 @@
+Kab/Kota Provinsi Kepulauan Riau (21)
+=========================
+Kode	Nama Kab/Kota
+=========================
+01 	KARIMUN	
+02 	BINTAN	
+03 	NATUNA	
+04 	LINGGA	
+05 	KEPULAUAN ANAMBAS	
+71 	BATAM	
+72 	TANJUNG PINANG

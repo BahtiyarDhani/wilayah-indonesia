@@ -1,0 +1,9 @@
+Kab/Kota Provinsi DI Yogyakarta (34)
+=========================
+Kode	Nama Kab/Kota
+=========================
+01 	KULON PROGO	
+02 	BANTUL	
+03 	GUNUNG KIDUL	
+04 	SLEMAN	
+71 	YOGYAKARTA

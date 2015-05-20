@@ -1,0 +1,16 @@
+Kab/Kota Provinsi Riau (14)
+=========================
+Kode	Nama Kab/Kota
+=========================
+01 	KUANTAN SINGINGI
+02 	INDRAGIRI HULU	
+03 	INDRAGIRI HILIR	
+04 	PELALAWAN	
+05 	SIAK	
+06 	KAMPAR	
+07 	ROKAN HULU	
+08 	BENGKALIS	
+09 	ROKAN HILIR	
+10 	KEPULAUAN MERANTI	
+71 	PEKANBARU	
+73 	DUMAI

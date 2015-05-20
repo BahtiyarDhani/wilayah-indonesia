@@ -1,0 +1,10 @@
+Kab/Kota Provinsi DKI Jakarta (31)
+=========================
+Kode	Nama Kab/Kota
+=========================
+01 	KEPULAUAN SERIBU	
+71 	JAKARTA SELATAN	
+72 	JAKARTA TIMUR	
+73 	JAKARTA PUSAT	
+74 	JAKARTA BARAT	
+75 	JAKARTA UTARA

@@ -1,0 +1,14 @@
+Kab/Kota Provinsi Bengkulu (17)
+=========================
+Kode	Nama Kab/Kota
+=========================
+01 	BENGKULU SELATAN	
+02 	REJANG LEBONG	
+03 	BENGKULU UTARA	
+04 	KAUR	15	
+05 	SELUMA	
+06 	MUKOMUKO	
+07 	LEBONG	
+08 	KEPAHIANG	
+09 	BENGKULU TENGAH	
+71 	BENGKULU

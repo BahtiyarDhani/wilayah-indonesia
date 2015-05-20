@@ -1,0 +1,11 @@
+Kab/Kota Provinsi Kepulauan Bangka Belitung(19)
+=========================
+Kode	Nama Kab/Kota
+=========================
+01 	BANGKA	
+02 	BELITUNG	
+03 	BANGKA BARAT	
+04 	BANGKA TENGAH	
+05 	BANGKA SELATAN	
+06 	BELITUNG TIMUR	
+71 	PANGKAL PINANG
