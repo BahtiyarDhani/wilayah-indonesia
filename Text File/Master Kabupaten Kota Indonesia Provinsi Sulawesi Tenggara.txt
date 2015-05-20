@@ -1,0 +1,21 @@
+Kab/Kota Provinsi Sulawesi Tenggara (74)
+=========================
+Kode	Nama Kab/Kota
+=========================
+01 	BUTON	
+02 	MUNA	
+03 	KONAWE	
+04 	KOLAKA	
+05 	KONAWE SELATAN	
+06 	BOMBANA	
+07 	WAKATOBI	
+08 	KOLAKA UTARA	
+09 	BUTON UTARA	
+10 	KONAWE UTARA	
+11 	KOLAKA TIMUR	
+12 	KONAWE KEPULAUAN	
+13 	MUNA BARAT	
+14 	BUTON TENGAH	
+15 	BUTON SELATAN
+71 	KENDARI	
+72 	BAUBAU

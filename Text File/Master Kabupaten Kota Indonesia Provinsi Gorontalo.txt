@@ -1,0 +1,10 @@
+Kab/Kota Provinsi Gorontalo (75)
+=========================
+Kode	Nama Kab/Kota
+=========================
+01 	BOALEMO	
+02 	GORONTALO	
+03 	POHUWATO	
+04 	BONE BOLANGO	
+05 	GORONTALO UTARA	
+71 	GORONTALO

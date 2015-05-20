@@ -1,0 +1,10 @@
+Kab/Kota Provinsi Sulawesi Barat (76)
+=========================
+Kode	Nama Kab/Kota
+=========================
+01 	MAJENE	
+02 	POLEWALI MANDAR	
+03 	MAMASA	
+04 	MAMUJU	
+05 	MAMUJU UTARA	
+06 	MAMUJU TENGAH

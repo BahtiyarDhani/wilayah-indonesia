@@ -1,0 +1,14 @@
+Kab/Kota Provinsi Kalimantan Timur (64)
+=========================
+Kode	Nama Kab/Kota
+=========================
+01 	PASER	
+02 	KUTAI BARAT	
+03 	KUTAI KARTANEGARA
+04 	KUTAI TIMUR	
+05 	BERAU	
+09 	PENAJAM PASER UTARA	
+11 	MAHAKAM HULU
+71 	BALIKPAPAN	
+72 	SAMARINDA	
+74 	BONTANG

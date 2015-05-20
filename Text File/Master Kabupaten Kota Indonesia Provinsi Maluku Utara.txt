@@ -1,0 +1,14 @@
+Kab/Kota Provinsi Maluku Utara (82)
+=========================
+Kode	Nama Kab/Kota
+=========================
+01 	HALMAHERA BARAT	
+02 	HALMAHERA TENGAH	
+03 	KEPULAUAN SULA	
+04 	HALMAHERA SELATAN	
+05 	HALMAHERA UTARA	
+06 	HALMAHERA TIMUR	
+07 	PULAU MOROTAI	
+08 	PULAU TALIABU	
+71 	TERNATE	
+72 	TIDORE KEPULAUAN

@@ -1,0 +1,9 @@
+Kab/Kota Provinsi Kalimantan Utara (65)
+=========================
+Kode	Nama Kab/Kota
+=========================
+01 	MALINAU	
+02 	BULUNGAN	
+03 	TANA TIDUNG	
+04 	NUNUKAN	
+71 	TARAKAN

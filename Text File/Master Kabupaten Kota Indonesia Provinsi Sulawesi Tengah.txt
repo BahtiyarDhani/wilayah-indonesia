@@ -1,0 +1,17 @@
+Kab/Kota Provinsi Sulawesi Tengah (72)
+=========================
+Kode	Nama Kab/Kota
+=========================
+01 	BANGGAI KEPULAUAN
+02 	BANGGAI	
+03 	MOROWALI	
+04 	POSO
+05 	DONGGALA	
+06 	TOLI-TOLI	
+07 	BUOL	
+08 	PARIGI MOUTONG
+09 	TOJO UNA-UNA	
+10 	SIGI
+11 	BANGGAI LAUT
+12 	MOROWALI UTARA
+71 	PALU

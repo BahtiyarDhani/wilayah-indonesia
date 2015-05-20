@@ -1,0 +1,13 @@
+Kab/Kota Provinsi Bali(51)
+=========================
+Kode	Nama Kab/Kota
+=========================
+01 	JEMBRANA
+02 	TABANAN	
+03 	BADUNG	
+04 	GIANYAR	
+05 	KLUNGKUNG	
+06 	BANGLI	
+07 	KARANG ASEM	
+08 	BULELENG	
+71 	DENPASAR

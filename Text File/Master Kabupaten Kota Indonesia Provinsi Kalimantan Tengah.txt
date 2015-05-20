@@ -1,0 +1,18 @@
+Kab/Kota Provinsi Kalimantan Tengah (62)
+=========================
+Kode	Nama Kab/Kota
+=========================
+01 	KOTAWARINGIN BARAT
+02 	KOTAWARINGIN TIMUR	
+03 	KAPUAS	
+04 	BARITO SELATAN	
+05 	BARITO UTARA	
+06 	SUKAMARA	
+07 	LAMANDAU	
+08 	SERUYAN	
+09 	KATINGAN	
+10 	PULANG PISAU	
+11 	GUNUNG MAS	
+12 	BARITO TIMUR	
+13 	MURUNG RAYA	
+71 	PALANGKA RAYA

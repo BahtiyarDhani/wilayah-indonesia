@@ -1,0 +1,18 @@
+Kab/Kota Provinsi Kalimantan Barat (61)
+=========================
+Kode	Nama Kab/Kota
+=========================
+01 	SAMBAS	
+02 	BENGKAYANG	
+03 	LANDAK	
+04 	MEMPAWAH	
+05 	SANGGAU	
+06 	KETAPANG	
+07 	SINTANG	
+08 	KAPUAS HULU	
+09 	SEKADAU	
+10 	MELAWI	
+11 	KAYONG UTARA	
+12 	KUBU RAYA	
+71 	PONTIANAK	
+72 	SINGKAWANG

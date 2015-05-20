@@ -1,0 +1,15 @@
+Kab/Kota Provinsi Maluku (81)
+=========================
+Kode	Nama Kab/Kota
+=========================
+01 	MALUKU TENGGARA BARAT	
+02 	MALUKU TENGGARA	
+03 	MALUKU TENGAH	
+04 	BURU	
+05 	KEPULAUAN ARU	
+06 	SERAM BAGIAN BARAT	
+07 	SERAM BAGIAN TIMUR	
+08 	MALUKU BARAT DAYA	
+09 	BURU SELATAN
+71 	AMBON	
+72 	TUAL

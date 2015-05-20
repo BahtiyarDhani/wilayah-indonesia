@@ -1,0 +1,17 @@
+Kab/Kota Provinsi Kalimantan Selatan (63)
+=========================
+Kode	Nama Kab/Kota
+=========================
+01 	TANAH LAUT	
+02 	KOTA BARU	
+03 	BANJAR	
+04 	BARITO KUALA	
+05 	TAPIN	
+06 	HULU SUNGAI SELATAN	
+07 	HULU SUNGAI TENGAH	
+08 	HULU SUNGAI UTARA	
+09 	TABALONG	
+10 	TANAH BUMBU	
+11 	BALANGAN	
+71 	BANJARMASIN	
+72 	BANJAR BARU

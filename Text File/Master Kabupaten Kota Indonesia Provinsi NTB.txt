@@ -1,0 +1,14 @@
+Kab/Kota Provinsi Nusa Tenggara Barat(52)
+=========================
+Kode	Nama Kab/Kota
+=========================
+01 	LOMBOK BARAT	
+02 	LOMBOK TENGAH
+03 	LOMBOK TIMUR	
+04 	SUMBAWA	
+05 	DOMPU	
+06 	BIMA		
+07 	SUMBAWA BARAT
+08 	LOMBOK UTARA	
+71 	MATARAM	
+72 	BIMA

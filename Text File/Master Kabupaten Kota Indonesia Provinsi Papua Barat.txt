@@ -1,0 +1,17 @@
+Kab/Kota Provinsi Papua Barat (91)
+=========================
+Kode	Nama Kab/Kota
+=========================
+01 	FAKFAK	
+02 	KAIMANA	
+03 	TELUK WONDAMA	
+04 	TELUK BINTUNI	
+05 	MANOKWARI	
+06 	SORONG SELATAN	
+07 	SORONG	
+08 	RAJA AMPAT	
+09 	TAMBRAUW	
+10 	MAYBRAT	
+11 	MANOKWARI SELATAN	
+12 	PEGUNUNGAN ARFAK	
+71 	SORONG
